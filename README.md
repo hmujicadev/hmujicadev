@@ -1,11 +1,11 @@
 
-[![App Screenshot]https://media.licdn.com/dms/image/C4E16AQEEfOr-wqqQww/profile-displaybackgroundimage-shrink_350_1400/0/1578881624093?e=1702512000&v=beta&t=a3kZt5J8ALiKQrLzfhBzSox88sNZ5PL-cxJRQIUpMIU](https://github.com/hmujicadev)
+[![App Screenshot](https://media.licdn.com/dms/image/C4E16AQEEfOr-wqqQww/profile-displaybackgroundimage-shrink_350_1400/0/1578881624093?e=1702512000&v=beta&t=a3kZt5J8ALiKQrLzfhBzSox88sNZ5PL-cxJRQIUpMIU)](https://github.com/hmujicadev)
 
 
 
-||||
-| :-------- |:------- | :------- |
-| [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
+|||
+| :-------- |:------- |
+| [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](/) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
 
 
 ## 🚀 About Me
