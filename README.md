@@ -37,7 +37,7 @@ Active listening, Patience, Open-mindedness, Adaptability, Problem-solving, Crit
 
 
 
-## 🚀 Other fun fact about me
+## 🚀 Other fun facts about me
 👩‍💻 I'm currently working on Fluxit (Argentina)
 
 🧠 I'm currently learning more about Backend
@@ -49,8 +49,6 @@ Active listening, Patience, Open-mindedness, Adaptability, Problem-solving, Crit
 💬 Ask me about Javascript
 
 📫 How to reach me ? follow the links to my Linkedin profile or my website.
-
-⚡️ Fun fact 
 
 <!---
 hmujicadev/hmujicadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
