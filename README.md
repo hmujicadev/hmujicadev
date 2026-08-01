@@ -1,5 +1,5 @@
 
-[![App Screenshot](https://drive.google.com/file/d/1snkTrW0iBVc6f9Ym2epeTnfuUQtu38S1/view?usp=sharing)](#)
+[![App Screenshot](assets/banner-hm.png)](#)
 
 |||
 | :-------- |:------- |
@@ -38,7 +38,7 @@ Active listening, Patience, Open-mindedness, Adaptability, Problem-solving, Crit
 
 
 ## 🚀 Other fun facts about me
-👩‍💻 I'm currently working on Fluxit (Argentina)
+👩‍💻 I'm currently working on Huenei IT (Argentina)
 
 🧠 I'm currently learning more about Backend
 
